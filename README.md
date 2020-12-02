@@ -1,2 +1,4 @@
 # public
- Various Project available for public use
+ Various Projects available for public use.
+ 
+  1 -  manim (mathematical animation engine) python code for constant acceleration / kinematic equations 
